@@ -79,9 +79,9 @@ The remaining supply will be generated through mining.
 
 ### PUMP Issuance
 
-PUMP issuance uses a bonding curve model.The earlier the purchase, the lower the price; as issuance progresses, the price increases steadily. From the start to the end of PUMP issuance, BSCAN’s price can rise by approximately 12 times.
+PUMP issuance uses a bonding curve model.The earlier the purchase, the lower the price; as issuance progresses, the price increases steadily. From the start to the end of PUMP issuance, BSCAN’s price can rise by approximately 13 times.
 
-Conditions for ending PUMP issuance: 1.All 350 million BSCAN are sold out, or 2.The issuance period reaches 5 months (150 days), issuance ends when either condition is met.
+Conditions for ending PUMP issuance: 1.All 350 million BSCAN are sold out, or 2.The issuance period reaches 6 months (180 days), issuance ends when either condition is met.
 
 After issuance ends, all USDT and the calculated amount of BSCAN in PUMP will be injected into a Uniswap liquidity pool based on the final BSCAN/USDT transaction price at the end of issuance.
 
@@ -121,9 +121,9 @@ Mining rewards are calculated by block and settled daily at 24:00 (UTC).
 
 After PUMP issuance ends, all USDT in the PUMP pool will be added to the BSCAN/USDT liquidity pool on Uniswap.
 
-BSCAN purchased through PUMP will be released gradually by block over 5 months. Mining can continue during the release period.
+BSCAN purchased through PUMP will be released gradually by block over 6 months. Mining can continue during the release period.
 
-After the PUMP phase ends, users can purchase BSCAN from Uniswap or other exchanges and deposit into the mining contract. Mining tiers and yield rules remain the same. The difference is that each deposit allows for mining over a 5-month period, with the principal released by block over 5 months. Mining will stop once the release is complete. Primary Tier still only allows mining for 10 days.
+After the PUMP phase ends, users can purchase BSCAN from Uniswap or other exchanges and deposit into the mining contract. Mining tiers and yield rules remain the same. The difference is that each deposit allows for mining over a 6-month period, with the principal released by block over 6 months. Mining will stop once the release is complete. Primary Tier still only allows mining for 10 days.
 
 During the mining period, if the BSCAN price drops or BSCAN is withdrawn, causing the holding value to drop below the corresponding tier requirement, the mining tier will be downgraded accordingly.
 
