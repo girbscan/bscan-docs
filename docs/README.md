@@ -147,6 +147,8 @@ During the PUMP issuance phase, users can directly sell BSCAN for USDT in the PU
 
 After PUMP ends, users can withdraw their mining rewards and sell them on Uniswap or other exchanges. Upon withdrawal, 3% will be burned, 2% will be charged as a project service fee, and the remaining 95% will be transferred to the user's address.
 
+
+
 ## 5. BSCAN Ecosystem
 
 BSCAN is a revolutionary AI framework built by combining blockchain technology with various AI models. Based on BSCAN, AI Agents serving different industries can be created.
@@ -160,3 +162,15 @@ In the future, it is expected that tens of thousands of AI Agent applications wi
 If these AI Agents issue their own tokens, users will also be able to use BSCAN to mine.
 
 The BSCAN platform will charge a service fee from these AI Agents. This fee will become the revenue of the BSCAN platform. BSCAN will use this revenue to repurchase BSCAN tokens.
+
+
+
+## 6. Open source contract address
+
+Pump: 0x641439ea4E7D79999D6FfC701eF53689704DFe44
+
+BSACAN:  0x368E8E60010112FE144F20a4384CeB372A29c017
+
+Github : [https://github.com/girbscan/bscan-contracts](https://github.com/girbscan/bscan-contracts)
+
+All codes of the BSCAN project are open source, and the functions are executed by smart contracts. They are open and transparent and cannot be tampered with. The contract administrator's authority has been locked, and no one can control the contract assets.
