@@ -169,7 +169,7 @@ The BSCAN platform will charge a service fee from these AI Agents. This fee will
 
 Pump: 0x641439ea4E7D79999D6FfC701eF53689704DFe44
 
-BSACAN:  0x368E8E60010112FE144F20a4384CeB372A29c017
+BSCAN:  0x368E8E60010112FE144F20a4384CeB372A29c017
 
 Github : [https://github.com/girbscan/bscan-contracts](https://github.com/girbscan/bscan-contracts)
 
